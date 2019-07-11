@@ -7,3 +7,21 @@ div.header {
     border-radius: 6px;
     padding: 5px 15px 15px 15px;
 }
+.side_menu {
+    width: 200px;
+    list-style-type: none;
+    padding: 5px;
+}
+.side_menu li {
+    background: lightgray;
+    border-radius: 3px;
+    padding: 3px;
+    margin: 5px;
+}
+.side_menu li a{
+    color: black;
+    text-decoration: none;
+}
+.side_menu .here {
+    background: green;
+}
