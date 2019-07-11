@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.line1 {
+    background-color: dodgerblue;
+}
+.line2 {
+    color: mediumseagreen;
+}
+.line3 {
+    border: 2px solid violet;
+}
+.line4 {
+    background-color: rgba(255, 99, 71, 0.5);
+}
+.line {
+    background-color: #ff6347;
+}
