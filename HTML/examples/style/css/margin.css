@@ -1,8 +1,8 @@
-h2 {
+.heading {
     margin: 20px 0 0 50px;
     border: solid;
 }
-div {
+.box {
     background-color: lightgray;
     width: 300px;
     border: 25px solid green;
