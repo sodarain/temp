@@ -1,6 +1,11 @@
-.box {
-    width: 320px;
+div {
     padding: 10px;
     border: 5px solid gray;
     margin: 0;
+}
+.box1 {
+    width: 320px;
+}
+.box2 {
+    width: 551px;
 }
