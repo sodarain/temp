@@ -4,7 +4,8 @@ p.one {
 }
 p.two {
     border-bottom: 6px dotted red;
-    border-width: thick
+    border-width: thick;
+    text-align: center;
 }
 p.three {
     border: 2px double red;
