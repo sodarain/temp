@@ -1,0 +1,6 @@
+p.ex1 {
+    border: 3px solid yellow;
+    outline-style: solid;
+    outline-color: invert;
+    outline-width: 6px;
+}
