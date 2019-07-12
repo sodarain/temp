@@ -9,6 +9,9 @@ div.header {
     padding: 5px 15px 15px 15px;
     margin: 5px;
 }
+h1.header a {
+    color: black;
+}
 
 /*wrapper*/
 .wrapper {
