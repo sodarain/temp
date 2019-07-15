@@ -1,3 +1,15 @@
+body {
+    background-color: #d62929;
+}
+/*헤더*/
+.header {
+    margin: 0;
+    color: white;
+}
+div.header {
+    padding: 10px;
+}
+
 /*테이블*/
 table {
     border-collapse: collapse; width: 100%;

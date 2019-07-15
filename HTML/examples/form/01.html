@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .block {
+            display: block;
+        }
+        .inline {
+            display: inline;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="01.html" method="GET">
+        <input class="inline" type="text" name="firstname">
+        <input class="inline" type="password" name="psw">
+        <select class="block" name="cars">
+            <option value="volvo">Volvo</option>
+            <option value="audi">Audi</option>
+        </select>
+        <input class="inline" type="radio" name="gender" value="male" checked>Male
+        <input class="inline" type="radio" name="gender" value="female">Female
+        <input class="inline" type="checkbox" name="vehicle1" value="bike">I have a bike
+        <input class="inline" type="checkbox" name="vehicle2" value="car">I have a car
+        <textarea class="block" name="message" row]=10 cols="30">Sample.</textarea>
+        <button class="block" type="button" onclick="alert('Hello World!')">Click!</button>
+        <input class="block" type="submit" value="submit">
+        <input class="block" type="reset">
+    </form>
+    <a href="01.html">Button</a>
+</body>
+
+</html>
