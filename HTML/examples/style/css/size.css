@@ -1,0 +1,16 @@
+body {
+    font-size: 120%;
+    /*font-size: 100%;*/
+}
+.em {
+    font-size: 1em;
+}
+.pt {
+    font-size: 12pt;
+}
+.px {
+    font-size: 16px;
+}
+.percent {
+    font-size: 100%;
+}
